@@ -1,0 +1,9 @@
+Alex Johnson|Mathematics|88.5
+Alex Johnson|Physics|92.0
+Alex Johnson|Chemistry|78.0
+Fatima Ali|Mathematics|95.0
+Fatima Ali|Physics|85.0
+Fatima Ali|Chemistry|91.0
+David Okafor|Mathematics|72.0
+David Okafor|Physics|89.5
+Gwani Joseph|Physics|89.0
